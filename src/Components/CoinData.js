@@ -18,6 +18,9 @@ export default class CoinData extends Component{
             </div>
             <div className="row result text-center">
                 <div className="col-xl-2 col-lg-2 col-md-2 result-table">
+                    
+                  {/* Creating table */}
+
                    <table border="1px" >
                        <tbody>
                      <tr>

@@ -12,12 +12,6 @@ code {
     monospace;
 }
 
-
-/* .App .Form .SearchButton{
-background-color:green;
- color:white;
-} */
-
 .App .Form
 {
   text-align: center;
@@ -26,7 +20,6 @@ background-color:green;
 .App .Form .search-input{
   width: 40vw;
   height: 35px;
-  /* border-radius: 10px; */
 }
 
 @media(max-width: 600px){
@@ -43,7 +36,6 @@ background-color:green;
 
 .coin-title{
   background-color: #5E8F9B;
-  /* width: 100%; */
 }
 
 .coin-title h3{
@@ -53,6 +45,7 @@ background-color:green;
 .result-table{
   padding: 0px !important;
 }
+
 .result-table table tbody tr td{
   padding-left: 10px;
   padding-right: 20px;

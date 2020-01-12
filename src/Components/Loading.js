@@ -4,7 +4,8 @@ export default class Loading extends Component{
     render(){
         return(
             <div className="text-center">
-                 <ul >
+
+                 <ul>
                  <h1>Crypto Wiki </h1> 
                 <h3>Loading The Coin List</h3>
                  </ul>
